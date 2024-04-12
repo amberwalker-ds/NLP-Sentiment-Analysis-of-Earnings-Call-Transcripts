@@ -6,10 +6,6 @@
 
 #### Abstract
 This project explores the dynamic shifts in sentiment expressed by CEOs and CFOs during economic crises and assesses the accuracy of their communications in such times. We analyzed earnings call transcripts from four distinct companies, applying sentiment analysis to texts from both CEOs and CFOs. The sentiment scores obtained were then regressed against share price data to gauge the correlation with actual company performance.
-
-### Section 1. Web Scraping Earnings Calls Transcripts 
-### Section 2. Sentiment Analysis of Earnings Calls
-
 ---
 
 ## Section 1. Web Scraping Earnings Calls Transcripts
